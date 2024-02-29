@@ -1,0 +1,18 @@
+{
+  "1": {
+    "py/object": "Domain.tranzactie.Tranzactie",
+    "id_entitate": "1",
+    "id_medicament": "125",
+    "id_card_client": "1",
+    "nr_bucati": "12",
+    "data_si_ora": "12.12.2020 12:12:12"
+  },
+  "4": {
+    "py/object": "Domain.tranzactie.Tranzactie",
+    "id_entitate": "4",
+    "id_medicament": "90",
+    "id_card_client": "2",
+    "nr_bucati": "10",
+    "data_si_ora": "09.09.2021 12:12:12"
+  }
+}

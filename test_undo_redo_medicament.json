@@ -1,0 +1,18 @@
+{
+  "2": {
+    "py/object": "Domain.medicament.Medicament",
+    "id_entitate": "2",
+    "nume": "Antibiotic",
+    "producator": "DAWD",
+    "pret": "100.8",
+    "reteta": "nu"
+  },
+  "3": {
+    "py/object": "Domain.medicament.Medicament",
+    "id_entitate": "3",
+    "nume": "Parasinus",
+    "producator": "DDAWD",
+    "pret": "90.0",
+    "reteta": "da"
+  }
+}

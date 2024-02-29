@@ -1,0 +1,402 @@
+{
+  "6": {
+    "py/object": "Domain.medicament.Medicament",
+    "id_entitate": "6",
+    "nume": "kaseghbz",
+    "producator": "xzsabkvy",
+    "pret": "326.16311435757495",
+    "reteta": "da"
+  },
+  "7": {
+    "py/object": "Domain.medicament.Medicament",
+    "id_entitate": "7",
+    "nume": "zuqgsnbr",
+    "producator": "sexjkmap",
+    "pret": "233.96698236784448",
+    "reteta": "nu"
+  },
+  "10": {
+    "py/object": "Domain.medicament.Medicament",
+    "id_entitate": "10",
+    "nume": "qkncua",
+    "producator": "dzxujv",
+    "pret": "317.3585376793811",
+    "reteta": "nu"
+  },
+  "11": {
+    "py/object": "Domain.medicament.Medicament",
+    "id_entitate": "11",
+    "nume": "teonbx",
+    "producator": "naiepm",
+    "pret": "305.224538861495",
+    "reteta": "nu"
+  },
+  "22": {
+    "py/object": "Domain.medicament.Medicament",
+    "id_entitate": "22",
+    "nume": "ujrfkclv",
+    "producator": "qdkoeiym",
+    "pret": "88.1537454595278",
+    "reteta": "nu"
+  },
+  "23": {
+    "py/object": "Domain.medicament.Medicament",
+    "id_entitate": "23",
+    "nume": "ikuvmgbf",
+    "producator": "uxepodzc",
+    "pret": "188.89258870970684",
+    "reteta": "nu"
+  },
+  "100": {
+    "py/object": "Domain.medicament.Medicament",
+    "id_entitate": "100",
+    "nume": "r",
+    "producator": "r",
+    "pret": "28.295372292000003",
+    "reteta": "da"
+  },
+  "101": {
+    "py/object": "Domain.medicament.Medicament",
+    "id_entitate": "101",
+    "nume": "fqls",
+    "producator": "vjkl",
+    "pret": "104.47503",
+    "reteta": "nu"
+  },
+  "102": {
+    "py/object": "Domain.medicament.Medicament",
+    "id_entitate": "102",
+    "nume": "dxfnzbgc",
+    "producator": "arofdimx",
+    "pret": "270.4702",
+    "reteta": "nu"
+  },
+  "103": {
+    "py/object": "Domain.medicament.Medicament",
+    "id_entitate": "103",
+    "nume": "yflbi",
+    "producator": "pzhsi",
+    "pret": "39.30685",
+    "reteta": "da"
+  },
+  "104": {
+    "py/object": "Domain.medicament.Medicament",
+    "id_entitate": "104",
+    "nume": "jemzbl",
+    "producator": "cdqaxf",
+    "pret": "50.39045",
+    "reteta": "da"
+  },
+  "105": {
+    "py/object": "Domain.medicament.Medicament",
+    "id_entitate": "105",
+    "nume": "lsxk",
+    "producator": "psrd",
+    "pret": "226.27550000000002",
+    "reteta": "da"
+  },
+  "106": {
+    "py/object": "Domain.medicament.Medicament",
+    "id_entitate": "106",
+    "nume": "fsmnxkha",
+    "producator": "hkqtlegv",
+    "pret": "245.2692",
+    "reteta": "da"
+  },
+  "107": {
+    "py/object": "Domain.medicament.Medicament",
+    "id_entitate": "107",
+    "nume": "mcryuf",
+    "producator": "oqzdsb",
+    "pret": "65.94621",
+    "reteta": "nu"
+  },
+  "108": {
+    "py/object": "Domain.medicament.Medicament",
+    "id_entitate": "108",
+    "nume": "riyvld",
+    "producator": "ftucgv",
+    "pret": "268.5804",
+    "reteta": "nu"
+  },
+  "109": {
+    "py/object": "Domain.medicament.Medicament",
+    "id_entitate": "109",
+    "nume": "zuojsgkp",
+    "producator": "eilhonzk",
+    "pret": "215.13580000000002",
+    "reteta": "nu"
+  },
+  "110": {
+    "py/object": "Domain.medicament.Medicament",
+    "id_entitate": "110",
+    "nume": "vjsuma",
+    "producator": "dcgrhj",
+    "pret": "208.8141",
+    "reteta": "da"
+  },
+  "111": {
+    "py/object": "Domain.medicament.Medicament",
+    "id_entitate": "111",
+    "nume": "fcvlioz",
+    "producator": "olnxzda",
+    "pret": "298.4333",
+    "reteta": "nu"
+  },
+  "112": {
+    "py/object": "Domain.medicament.Medicament",
+    "id_entitate": "112",
+    "nume": "vdfctsu",
+    "producator": "eundbfp",
+    "pret": "25.825029999999998",
+    "reteta": "nu"
+  },
+  "113": {
+    "py/object": "Domain.medicament.Medicament",
+    "id_entitate": "113",
+    "nume": "fsaqjrz",
+    "producator": "sevixrn",
+    "pret": "4.97189",
+    "reteta": "da"
+  },
+  "114": {
+    "py/object": "Domain.medicament.Medicament",
+    "id_entitate": "114",
+    "nume": "prmcbgjui",
+    "producator": "texdgszlh",
+    "pret": "197.8042",
+    "reteta": "nu"
+  },
+  "115": {
+    "py/object": "Domain.medicament.Medicament",
+    "id_entitate": "115",
+    "nume": "imslczfa",
+    "producator": "xhbmfqtg",
+    "pret": "240.0552",
+    "reteta": "nu"
+  },
+  "116": {
+    "py/object": "Domain.medicament.Medicament",
+    "id_entitate": "116",
+    "nume": "iqkvuft",
+    "producator": "kcltypx",
+    "pret": "280.7508",
+    "reteta": "nu"
+  },
+  "117": {
+    "py/object": "Domain.medicament.Medicament",
+    "id_entitate": "117",
+    "nume": "gpaxjily",
+    "producator": "yzpisrxj",
+    "pret": "11.427240000000001",
+    "reteta": "da"
+  },
+  "118": {
+    "py/object": "Domain.medicament.Medicament",
+    "id_entitate": "118",
+    "nume": "txqisnf",
+    "producator": "gdukzxc",
+    "pret": "304.0741",
+    "reteta": "nu"
+  },
+  "119": {
+    "py/object": "Domain.medicament.Medicament",
+    "id_entitate": "119",
+    "nume": "vzdohl",
+    "producator": "xtrsny",
+    "pret": "283.1103",
+    "reteta": "da"
+  },
+  "120": {
+    "py/object": "Domain.medicament.Medicament",
+    "id_entitate": "120",
+    "nume": "rifgznm",
+    "producator": "iaopugr",
+    "pret": "144.41570000000002",
+    "reteta": "nu"
+  },
+  "121": {
+    "py/object": "Domain.medicament.Medicament",
+    "id_entitate": "121",
+    "nume": "pirtk",
+    "producator": "yfhno",
+    "pret": "63.65084",
+    "reteta": "nu"
+  },
+  "122": {
+    "py/object": "Domain.medicament.Medicament",
+    "id_entitate": "122",
+    "nume": "hkfzyjme",
+    "producator": "rmpdyqec",
+    "pret": "290.4132",
+    "reteta": "nu"
+  },
+  "123": {
+    "py/object": "Domain.medicament.Medicament",
+    "id_entitate": "123",
+    "nume": "iybknaud",
+    "producator": "zcdxoiaf",
+    "pret": "94.55908",
+    "reteta": "nu"
+  },
+  "124": {
+    "py/object": "Domain.medicament.Medicament",
+    "id_entitate": "124",
+    "nume": "elyxp",
+    "producator": "hlrtg",
+    "pret": "212.3121",
+    "reteta": "nu"
+  },
+  "125": {
+    "py/object": "Domain.medicament.Medicament",
+    "id_entitate": "125",
+    "nume": "yzpx",
+    "producator": "obmz",
+    "pret": "275.1606",
+    "reteta": "nu"
+  },
+  "1": {
+    "py/object": "Domain.medicament.Medicament",
+    "id_entitate": "1",
+    "nume": "ruvmpyot",
+    "producator": "nhvtlzxg",
+    "pret": "246.827",
+    "reteta": "nu"
+  },
+  "126": {
+    "py/object": "Domain.medicament.Medicament",
+    "id_entitate": "126",
+    "nume": "cbexagh",
+    "producator": "klpyoqn",
+    "pret": "133.795",
+    "reteta": "da"
+  },
+  "127": {
+    "py/object": "Domain.medicament.Medicament",
+    "id_entitate": "127",
+    "nume": "luez",
+    "producator": "otvb",
+    "pret": "72.9168",
+    "reteta": "da"
+  },
+  "128": {
+    "py/object": "Domain.medicament.Medicament",
+    "id_entitate": "128",
+    "nume": "aqhb",
+    "producator": "ojhv",
+    "pret": "289.825",
+    "reteta": "da"
+  },
+  "129": {
+    "py/object": "Domain.medicament.Medicament",
+    "id_entitate": "129",
+    "nume": "cfujkpe",
+    "producator": "oiemvst",
+    "pret": "154.843",
+    "reteta": "nu"
+  },
+  "130": {
+    "py/object": "Domain.medicament.Medicament",
+    "id_entitate": "130",
+    "nume": "rgfhlcamk",
+    "producator": "doqejgtzp",
+    "pret": "120.786",
+    "reteta": "da"
+  },
+  "131": {
+    "py/object": "Domain.medicament.Medicament",
+    "id_entitate": "131",
+    "nume": "ethg",
+    "producator": "ajpg",
+    "pret": "278.397",
+    "reteta": "da"
+  },
+  "132": {
+    "py/object": "Domain.medicament.Medicament",
+    "id_entitate": "132",
+    "nume": "jcdb",
+    "producator": "pgxa",
+    "pret": "96.0729",
+    "reteta": "da"
+  },
+  "133": {
+    "py/object": "Domain.medicament.Medicament",
+    "id_entitate": "133",
+    "nume": "nsgehib",
+    "producator": "tlxadbk",
+    "pret": "118.706",
+    "reteta": "nu"
+  },
+  "134": {
+    "py/object": "Domain.medicament.Medicament",
+    "id_entitate": "134",
+    "nume": "gcodmxsb",
+    "producator": "zrcxnusi",
+    "pret": "70.7366",
+    "reteta": "da"
+  },
+  "135": {
+    "py/object": "Domain.medicament.Medicament",
+    "id_entitate": "135",
+    "nume": "hltxaf",
+    "producator": "rpimjd",
+    "pret": "142.789",
+    "reteta": "da"
+  },
+  "136": {
+    "py/object": "Domain.medicament.Medicament",
+    "id_entitate": "136",
+    "nume": "lzgrbv",
+    "producator": "ilozxa",
+    "pret": "258.546",
+    "reteta": "da"
+  },
+  "137": {
+    "py/object": "Domain.medicament.Medicament",
+    "id_entitate": "137",
+    "nume": "ainqufp",
+    "producator": "tvagflr",
+    "pret": "239.563",
+    "reteta": "da"
+  },
+  "138": {
+    "py/object": "Domain.medicament.Medicament",
+    "id_entitate": "138",
+    "nume": "dcysmgviz",
+    "producator": "vqzbdmpxi",
+    "pret": "215.894",
+    "reteta": "nu"
+  },
+  "139": {
+    "py/object": "Domain.medicament.Medicament",
+    "id_entitate": "139",
+    "nume": "jrzloiqpa",
+    "producator": "jhzeysglb",
+    "pret": "152.986",
+    "reteta": "da"
+  },
+  "140": {
+    "py/object": "Domain.medicament.Medicament",
+    "id_entitate": "140",
+    "nume": "lqfdkhp",
+    "producator": "scxdihe",
+    "pret": "13.008600000000001",
+    "reteta": "da"
+  },
+  "141": {
+    "py/object": "Domain.medicament.Medicament",
+    "id_entitate": "141",
+    "nume": "emrvkitfb",
+    "producator": "sauxizfvj",
+    "pret": "35.808299999999996",
+    "reteta": "nu"
+  },
+  "90": {
+    "py/object": "Domain.medicament.Medicament",
+    "id_entitate": "90",
+    "nume": "Paracetamol",
+    "producator": "DAWDAWD",
+    "pret": "235.79476909999997",
+    "reteta": "nu"
+  }
+}

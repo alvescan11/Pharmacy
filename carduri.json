@@ -1,0 +1,29 @@
+{
+  "1": {
+    "py/object": "Domain.card_client.CardClient",
+    "id_entitate": "1",
+    "nume": "1",
+    "prenume": "1",
+    "CNP": "1",
+    "data_nasterii": "12.12.2020",
+    "data_inregistrare": "12.12.2020"
+  },
+  "3": {
+    "py/object": "Domain.card_client.CardClient",
+    "id_entitate": "3",
+    "nume": "3",
+    "prenume": "3",
+    "CNP": "3",
+    "data_nasterii": "12.12.2020",
+    "data_inregistrare": "12.12.2020"
+  },
+  "2": {
+    "py/object": "Domain.card_client.CardClient",
+    "id_entitate": "2",
+    "nume": "awd",
+    "prenume": "sf",
+    "CNP": "123123",
+    "data_nasterii": "12.12.2020",
+    "data_inregistrare": "12.12.2020"
+  }
+}
